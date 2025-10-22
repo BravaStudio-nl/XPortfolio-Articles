@@ -1,0 +1,81 @@
+{
+  "articles": [
+    {
+      "slug": "why-design-systems-matter",
+      "title": "Why Design Systems Matter",
+      "subtitle": "How investing in design systems saves time, reduces inconsistency, and scales your product team effectively.",
+      "category": "Design Systems",
+      "date": "October 22, 2025",
+      "readTime": "8 min read",
+      "author": "Lucas Sublime",
+      "featuredImage": "https://via.placeholder.com/1000x600",
+      "tags": ["Design Systems", "Product Design", "Team Process"],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Design systems have become essential infrastructure for modern product teams. They're not just style guides or component libraries—they're the foundation that enables teams to move fast without breaking things."
+        },
+        {
+          "type": "heading2",
+          "text": "What Makes a Good Design System"
+        },
+        {
+          "type": "paragraph",
+          "text": "A good design system balances flexibility with consistency. It provides clear guidelines while leaving room for creativity and evolution."
+        },
+        {
+          "type": "heading3",
+          "text": "Core Components"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every design system needs these foundational elements: typography scales, color tokens, spacing units, and reusable components."
+        },
+        {
+          "type": "blockquote",
+          "text": "Design systems are about enabling teams to make better decisions faster, not restricting creativity."
+        },
+        {
+          "type": "heading2",
+          "text": "The Business Case"
+        },
+        {
+          "type": "paragraph",
+          "text": "Beyond the design benefits, systems deliver measurable business value: faster shipping, reduced technical debt, and improved team efficiency."
+        }
+      ],
+      "relatedArticles": [
+        "building-component-libraries",
+        "design-tokens-explained"
+      ]
+    },
+    {
+      "slug": "building-component-libraries",
+      "title": "Building Component Libraries That Scale",
+      "subtitle": "Practical strategies for creating component libraries that grow with your product and team.",
+      "category": "Development",
+      "date": "October 15, 2025",
+      "readTime": "10 min read",
+      "author": "Lucas Sublime",
+      "featuredImage": "https://via.placeholder.com/1000x600",
+      "tags": ["Components", "Development", "Design Systems"],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Component libraries are the practical implementation of your design system. Here's how to build ones that actually get used."
+        },
+        {
+          "type": "heading2",
+          "text": "Start Small"
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with the components you use most frequently. Don't try to build everything at once."
+        }
+      ],
+      "relatedArticles": [
+        "why-design-systems-matter"
+      ]
+    }
+  ]
+}
